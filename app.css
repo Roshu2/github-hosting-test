@@ -128,7 +128,7 @@ svg {
 }
 
 .main {
-    min-height: calc(100vh - 3.125rem - 24.625rem - 5rem)
+    min-height: calc(100vh - 3.125rem - 24.625rem - 5rem);
 }
 
 @media (max-width: 767px) {
@@ -244,7 +244,7 @@ svg {
 }
 
 .nav-svg {
-    justify-content: center
+    justify-content: center;
 }
 
 @media (max-width: 575px) {
